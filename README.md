@@ -77,7 +77,7 @@ A IA será responsável por:
 - **React**
 - **Tailwind CSS** 
 
-### 🗄️ Banco de Dados (futuro)
+###  Banco de Dados (futuro)
 - **PostgreSQL**
 - **Prisma ORM**
 
@@ -86,7 +86,7 @@ A IA será responsável por:
 
 ---
 
-## 🌱 Status do Projeto
+##  Status do Projeto
 
  **Em desenvolvimento**  
 Projeto em fase de ideação e estruturação, criado com foco em aprendizado, criatividade e experimentação.
